@@ -1,0 +1,7 @@
+{
+    "bearer_token": "AAAAAAAAAAAAAAAAAAAAABTNlQEAAAAAc8xW%2BPnqZvJ3P3wuhgZR55%2Bk6%2Fo%3DxiNKxNWxR1GxtgkwBDEJCbDVO2w32YoA42Elb3dAXfv8pEM4Ub",
+    "json_name": "tweets.json",
+    "chunk_size": 100,
+    "file_size_mb": 512,
+    "num_workers": 4
+}
